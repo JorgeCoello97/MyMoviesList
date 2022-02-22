@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyMoviesListV2</string>
+    <string name="tab_series">Series</string>
+    <string name="tab_movies">Películas</string>
+    <string name="tab_my_list">Mi Lista</string>
+    <string name="common_coming_soon">Próximamente</string>
+    <string name="common_trending_now">Populares</string>
+    <string name="gender_all">Todos</string>
+    <string name="gender_action">Acción</string>
+    <string name="gender_comedy">Comedia</string>
+    <string name="gender_romance">Romance</string>
+    <string name="gender_fantasy">Fantasía</string>
+    <string name="gender_scifi">Sci-Fi</string>
+    <string name="gender_adventure">Aventura</string>
+    <string name="gender_animation">Animación</string>
+    <string name="gender_crime">Crimen</string>
+    <string name="gender_documentary">Documental</string>
+    <string name="gender_drama">Drama</string>
+    <string name="gender_family">Familia</string>
+    <string name="gender_history">Historia</string>
+    <string name="gender_horror">Terror</string>
+    <string name="gender_musical">Musical</string>
+    <string name="gender_mystery">Misterio</string>
+    <string name="gender_tv">TV</string>
+    <string name="gender_thriller">Suspense</string>
+    <string name="gender_war">Bélica</string>
+    <string name="gender_western">Western</string>
+    <string name="gender_kids">Niños</string>
+    <string name="gender_news">Noticias</string>
+    <string name="gender_reality">Reality</string>
+    <string name="gender_soap">Soap</string>
+    <string name="gender_talk">Charla</string>
+    <string name="common_top_rated">Mejor Valorados</string>
+</resources>
